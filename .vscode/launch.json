@@ -9,13 +9,6 @@
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "animal clinic",
-            "request": "launch",
-            "mainClass": "com.animalclinic.Main",
-            "projectName": "animal-clinic"
         }
     ]
 }
